@@ -6,7 +6,7 @@ private:
 int no;
 string name;
 public:
-virtual vois display()=0{
+virtual void display()=0{
 cout<<"enter emplopyee number:";
 cin>>no;
 cout<<"Enter employee name:";

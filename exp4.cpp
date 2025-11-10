@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 class Rectangle{
 int len,wid;
